@@ -1,0 +1,29 @@
+h1{
+  color:black;
+  text-align:center;
+  font-family:sans-serif;;
+}
+h2{
+  color:black;
+  text-align:center;
+  font-family:sans-serif;
+}
+h3{
+  color:black;
+  text-align:center;
+  font-family: serif;
+}
+a{
+  color:black
+  text-align:center;
+  font-family: sans-serif;
+}
+p{
+  text-align: center;
+}
+div{
+  text-align: center;
+}
+body{
+  background-color:	#CFCFC4;
+}
